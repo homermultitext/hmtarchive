@@ -27,10 +27,14 @@ import edu.holycross.shot.scm._
 import edu.holycross.shot.cex._
 import edu.holycross.shot.xmlutils._
 
-import org.homermultitext.edmodel._
+import edu.holycross.shot.citevalidator._
 import edu.holycross.shot.mid.validator._
 import edu.holycross.shot.mid.orthography._
+
+
 import edu.holycross.shot.greek._
+import org.homermultitext.edmodel._
+
 
 import java.io.PrintWriter
 import scala.io._
@@ -249,7 +253,6 @@ def releaseTexts(releaseId: String) =  {
   new PrintWriter(s"release-candidates/hmt-${releaseId}-texts.cex") { write(allCex); close}
 }
 
-
 def updateAuthlists = {
   println("Retrieving personal names data from github...")
   val persnamesUrl = "https://raw.githubusercontent.com/homermultitext/hmt-authlists/master/data/hmtnames.cex"
@@ -262,8 +265,8 @@ def updateAuthlists = {
   new PrintWriter("archive/authlists/hmtplaces.cex") {write(placeLines.mkString("\n") + "\n"); close;}
 }
 
-/*
-def hmtValidators(lib: CiteLibrary) : Vector[MidValidator[Any]]= {
+
+def hmtValidators(lib: CiteLibrary) : Vector[CiteValidator[Any]]= {
   val dsev = DseValidator(lib)
   Vector(dsev)
 }
@@ -277,7 +280,7 @@ def validateRelease(releaseId: String) : TestResultGroup = {
   val title = "Valdation results for HMT release " + releaseId
   TestResultGroup(title, rslts)
 }
-*/
+
 
 
 
@@ -300,12 +303,12 @@ def buildRelease(releaseId: String) = {
   tidy
 }
 
-/*
+
 def printValidation(releaseId: String) : Unit = {
   println("Validating release " + releaseId)
   val testResults = validateRelease(releaseId)
   new PrintWriter(s"release-candidates/hmt-${releaseId}-validation.md") { write(testResults.markdown); close}
-}*/
+}
 
 /** Publish a release of the Homer Multitext project archive.
 *
@@ -317,7 +320,7 @@ def printValidation(releaseId: String) : Unit = {
 */
 def release(releaseId: String) =  {
   buildRelease(releaseId)
-  //printValidation(releaseId)
+  printValidation(releaseId)
 
   println(s"\nRelease ${releaseId} is available in release-candidates/hmt-${releaseId}.cex with accompanying report on validation in release-candidates/hmt-${releaseId}-validation.md\n")
 
