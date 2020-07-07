@@ -2,6 +2,10 @@
 
 ## Notes on published releases of HMT archival data
 
+
+- **2020k**: Removes ambigous middle dot  (Unicode `x0b07`) and ano teleia (Unicode `x0387`) from all editions.  Validations applied:
+    - DSE relations validated.
+- **2020j**: Removes non-breaking space (Unicode `x00a0`) from all editions.
 - **2020i**: Casey Dué’s and Mary Ebbott’s translation of *Iliad* Book 10 added to data.
 - **2020h**: DSE records that were missing for *Iliad* Book 23 (poetic text) added.
 - **2020g**: numerous invalid range-URNs corrected in scholia.
