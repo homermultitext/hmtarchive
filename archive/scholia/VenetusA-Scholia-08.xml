@@ -1165,7 +1165,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="119" type="scholion">
                   <div n="lemma">
-                     <p>φύγαδὲ τράπε⁚ </p>
+                     <p>φύγαδὲ τράπε~ </p>
                   </div>
                   <div n="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.157</p>
@@ -1366,7 +1366,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="139" type="scholion">
                   <div n="lemma">
-                     <p>ἀλλ' ἐφομαρτεῖτον καὶ σπεύδετον⁚ </p>
+                     <p>ἀλλ' ἐφομαρτεῖτον καὶ σπεύδετον~ </p>
                   </div>
                   <div n="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.191</p>
@@ -1445,7 +1445,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.205-8.206</p>
                   </div>
                   <div n="comment">
-                     <p><persName n="urn:cite2:hmt:pers.r1:pers8">Ζῆν</persName> αὐτοῦ κ' ἔνθ' ἀκαχοιτο⁚
+                     <p><persName n="urn:cite2:hmt:pers.r1:pers8">Ζῆν</persName> αὐτοῦ κ' ἔνθ' ἀκαχοιτο~
                         εἰ δια τὸν <q>ει</q> σύνδεσμον ἀποτελουμένη ὑποστιγμὴ πίπτει μετα τὸ
                               <q><persName n="urn:cite2:hmt:pers.r1:pers8">Ζῆν</persName></q> ὄνομα ⁑
                      </p>
@@ -1468,7 +1468,7 @@ style simple scholia" alternate="no"?>
                         </cit>~ <cit>
                            <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.166</ref>
                            <q>ὡς εφαθ' οὐδ' ἀπίθησεν</q>
-                        </cit>⁚ ἕτερον δὲ ὅτι συμβήσεται κατ αρχὰς τοῦ στίχου μετὰ τὸ <rs type="waw"
+                        </cit>~ ἕτερον δὲ ὅτι συμβήσεται κατ αρχὰς τοῦ στίχου μετὰ τὸ <rs type="waw"
                            >ν</rs> μόνον στοιχεῖον διάστημα εἶναι τῆς ὑποστιγμῆς ⁑</p>
                   </div>
                </div>
@@ -2342,7 +2342,7 @@ style simple scholia" alternate="no"?>
                <div n="239" type="scholion">
                   <div n="lemma">
                      <p>ἐξ <placeName n="urn:cite2:hmt:place.r1:place286">Ἐρέβευς</placeName> ἄξοντα
-                        κύνα στυγεροῦ <placeName n="urn:cite2:hmt:place.r1:place67">Αϊδαο</placeName>⁚
+                        κύνα στυγεροῦ <placeName n="urn:cite2:hmt:place.r1:place67">Αϊδαο</placeName>~
                      </p>
                   </div>
                   <div n="ref">
@@ -2719,7 +2719,7 @@ style simple scholia" alternate="no"?>
                </div>
                <div n="270" type="scholion">
                   <div n="lemma">
-                     <p>κάπῃσιν⁚ </p>
+                     <p>κάπῃσιν~ </p>
                   </div>
                   <div n="ref">
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.434</p>
@@ -3801,7 +3801,7 @@ style simple scholia" alternate="no"?>
                         </choice> καὶ ἐνθάδε <choice>
                            <abbr>λειπ</abbr>
                            <expan>λειπει</expan>
-                        </choice> ἡ περι⁚ </p>
+                        </choice> ἡ περι~ </p>
                   </div>
                </div>
                <div n="110" type="scholion">
@@ -3876,7 +3876,7 @@ style simple scholia" alternate="no"?>
                         <choice>
                            <abbr>αντ</abbr>
                            <expan>ἀντὶ</expan>
-                        </choice> τοῦ <q>τέτυξο</q>⁚ </p>
+                        </choice> τοῦ <q>τέτυξο</q>~ </p>
                   </div>
                </div>
                <div n="9002" type="scholion">
@@ -4035,7 +4035,7 @@ style simple scholia" alternate="no"?>
                               <abbr>Ἀρισταρχ</abbr>
                               <expan>Ἀρισταρχος</expan>
                            </choice></persName>
-                        <q>βεβληκοι</q>⁚ </p>
+                        <q>βεβληκοι</q>~ </p>
                   </div>
                </div>
                <div n="200" type="scholion">
@@ -4057,7 +4057,7 @@ style simple scholia" alternate="no"?>
                               <abbr>Αριστοφα</abbr>
                               <expan>Αριστοφανη</expan>
                            </choice></persName>
-                        <q>ἵππω</q>⁚ </p>
+                        <q>ἵππω</q>~ </p>
                   </div>
                </div>
                <div n="211" type="scholion">
@@ -4223,7 +4223,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p><persName n="urn:cite2:hmt:pers.r1:pers16">Αρισταρχος</persName>
-                        <q>Γοργοῦς <sic>οἴ´ματ'</sic> εχων</q>⁚ </p>
+                        <q>Γοργοῦς <sic>οἴ´ματ'</sic> εχων</q>~ </p>
                   </div>
                </div>
                <div n="245" type="scholion">
@@ -4238,7 +4238,7 @@ style simple scholia" alternate="no"?>
                            <abbr>γρ</abbr>
                            <expan>γράφεται</expan>
                         </choice>
-                        <q><rs n="urn:cite2:hmt:place.r1:place114" type="ethnic">Ἀργείων</rs></q>⁚ </p>
+                        <q><rs n="urn:cite2:hmt:place.r1:place114" type="ethnic">Ἀργείων</rs></q>~ </p>
                   </div>
                </div>
                <div n="246" type="scholion">
@@ -4430,7 +4430,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.460</p>
                   </div>
                   <div n="comment">
-                     <p>παρα το ἐπεισάγειν το ἐπισκυνιον⁚ </p>
+                     <p>παρα το ἐπεισάγειν το ἐπισκυνιον~ </p>
                   </div>
                </div>
                <div n="296" type="scholion">
@@ -4455,7 +4455,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.471</p>
                   </div>
                   <div n="comment">
-                     <p>ἐν αλλω <q>ἢν ἐθέλῃσθα</q>⁚ </p>
+                     <p>ἐν αλλω <q>ἢν ἐθέλῃσθα</q>~ </p>
                   </div>
                </div>
                <div n="298" type="scholion">
@@ -4489,7 +4489,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.480</p>
                   </div>
                   <div n="comment">
-                     <p>τοῦ ὑπερ ημᾶς οντος ηλίου⁚ </p>
+                     <p>τοῦ ὑπερ ημᾶς οντος ηλίου~ </p>
                   </div>
                </div>
                <div n="315" type="scholion">
@@ -4518,7 +4518,7 @@ style simple scholia" alternate="no"?>
                            <abbr>γρ</abbr>
                            <expan>γράφεται</expan>
                         </choice>
-                        <q>έπεα <w>πτερόεντ<unclear>'</unclear></w> ἀγόρευε</q>⁚ </p>
+                        <q>έπεα <w>πτερόεντ<unclear>'</unclear></w> ἀγόρευε</q>~ </p>
                   </div>
                </div>
                <div n="317" type="scholion">
@@ -4588,7 +4588,7 @@ style simple scholia" alternate="no"?>
                            <abbr>γρ</abbr>
                            <expan>γράφεται</expan>
                         </choice>
-                        <q>νηὸς αποθρώσκων</q>⁚ </p>
+                        <q>νηὸς αποθρώσκων</q>~ </p>
                   </div>
                </div>
                <div n="332" type="scholion">
@@ -4645,7 +4645,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.532-8.534</p>
                   </div>
                   <div n="comment">
-                     <p>ἐν αλλω <q>φεροίμην</q>⁚ </p>
+                     <p>ἐν αλλω <q>φεροίμην</q>~ </p>
                   </div>
                </div>
                <div n="349" type="scholion">
@@ -4685,7 +4685,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.563</p>
                   </div>
                   <div n="comment">
-                     <p>ὑπῆρχον⁚ </p>
+                     <p>ὑπῆρχον~ </p>
                   </div>
                </div>
             </body>
@@ -4955,7 +4955,7 @@ style simple scholia" alternate="no"?>
                         </choice> καὶ <q>ἐπ <placeName n="urn:cite2:hmt:place.r1:place89"><choice>
                                  <abbr>Ιδαίω</abbr>
                                  <expan>Ιδαίων</expan>
-                        </choice></placeName></q>⁚ </p>
+                        </choice></placeName></q>~ </p>
                   </div>
                </div>
                <div n="142" type="scholion">
@@ -5233,7 +5233,7 @@ style simple scholia" alternate="no"?>
                   </div>
                   <div n="comment">
                      <p>εν τοῖς <persName n="urn:cite2:hmt:pers.r1:pers615">Διογένους</persName>
-                        <q>αμβωνεσσι</q>⁚ </p>
+                        <q>αμβωνεσσι</q>~ </p>
                   </div>
                </div>
                <div n="299" type="scholion">
@@ -5247,7 +5247,7 @@ style simple scholia" alternate="no"?>
                      <p><choice>
                            <abbr>αντ</abbr>
                            <expan>ἀντὶ</expan>
-                     </choice> τοῦ <q>πληγεῖσαι</q>⁚ </p>
+                     </choice> τοῦ <q>πληγεῖσαι</q>~ </p>
                   </div>
                </div>
                <div n="300" type="scholion">
@@ -5277,7 +5277,7 @@ style simple scholia" alternate="no"?>
                            <abbr>γρ</abbr>
                            <expan>γράφεται</expan>
                         </choice>
-                        <q>οὐκ επιεικτόν</q> ⁚ </p>
+                        <q>οὐκ επιεικτόν</q> ~ </p>
                   </div>
                </div>
                <div n="302" type="scholion">
@@ -5303,7 +5303,7 @@ style simple scholia" alternate="no"?>
                            <abbr>γρ</abbr>
                            <expan>γράφεται</expan>
                         </choice>
-                        <q>πεσόντος</q>⁚ </p>
+                        <q>πεσόντος</q>~ </p>
                   </div>
                </div>
                <div n="318" type="scholion">
@@ -5314,7 +5314,7 @@ style simple scholia" alternate="no"?>
                      <p>urn:cts:greekLit:tlg0012.tlg001.msA:8.488</p>
                   </div>
                   <div n="comment">
-                     <p>πλεονάζει τὸ <rs type="waw">λ</rs> ὁ πολυλιτάνευτος⁚ </p>
+                     <p>πλεονάζει τὸ <rs type="waw">λ</rs> ὁ πολυλιτάνευτος~ </p>
                   </div>
                </div>
                <div n="319" type="scholion">
